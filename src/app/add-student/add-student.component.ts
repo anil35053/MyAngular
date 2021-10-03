@@ -3,7 +3,7 @@ import { StudentService } from '../student.service';
 import {FormControl,FormGroup,Validators} from '@angular/forms';
 import { Student } from '../student';
 @Component({
-  selector: 'app-add-student',
+  selector: 'app-add-student', 
   templateUrl: './add-student.component.html',
   styleUrls: ['./add-student.component.css']
 })
